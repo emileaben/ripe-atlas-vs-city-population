@@ -90,8 +90,9 @@ j = []
 for c_idx, city in enumerate( cities ):
     city_distances = distances[ c_idx ]
     close = filter( lambda x: x < 50 , city_distances )
+    close_cnt = len( list( close ) ) 
     int_pop = int( city['pop'] * 0.01 * pct_users[ city['cc'] ] )
-    print( f"{city['name']}, {city['cc']}, {city['pop']}, {int_pop}, {len( list(close) )}" )
+    print( f"{city['name']}, {city['cc']}, {city['pop']}, {int_pop}, {close_cnt}" )
     j.append({
         'city': city['name'],
         'lat': city['lat'],
@@ -99,7 +100,7 @@ for c_idx, city in enumerate( cities ):
         'country': city['cc'],
         'city_population': city['pop'],
         'city_internet_population': int_pop,
-        'atlas_probe_50km_count': len( list( close ) ),
+        'atlas_probe_50km_count': close_cnt
     })
 
 with open("cities.atlas.json", 'wt') as outf:

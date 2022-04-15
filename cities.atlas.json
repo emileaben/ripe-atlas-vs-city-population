@@ -6,7 +6,7 @@
     "country": "CN",
     "city_population": 22315474,
     "city_internet_population": 15764129,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 5
   },
   {
     "city": "Beijing",
@@ -15,7 +15,7 @@
     "country": "CN",
     "city_population": 18960744,
     "city_internet_population": 13394275,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 11
   },
   {
     "city": "Shenzhen",
@@ -24,7 +24,7 @@
     "country": "CN",
     "city_population": 17494398,
     "city_internet_population": 12358417,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 43
   },
   {
     "city": "Guangzhou",
@@ -33,7 +33,7 @@
     "country": "CN",
     "city_population": 16096724,
     "city_internet_population": 11371070,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 7
   },
   {
     "city": "Lagos",
@@ -51,7 +51,7 @@
     "country": "TR",
     "city_population": 14804116,
     "city_internet_population": 11498291,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 27
   },
   {
     "city": "Chengdu",
@@ -69,7 +69,7 @@
     "country": "AR",
     "city_population": 13076300,
     "city_internet_population": 9715024,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 12
   },
   {
     "city": "Mumbai",
@@ -78,7 +78,7 @@
     "country": "IN",
     "city_population": 12691836,
     "city_internet_population": 5203652,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 30
   },
   {
     "city": "Mexico City",
@@ -87,7 +87,7 @@
     "country": "MX",
     "city_population": 12294193,
     "city_internet_population": 8848130,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "Karachi",
@@ -114,7 +114,7 @@
     "country": "IN",
     "city_population": 10927986,
     "city_internet_population": 4480474,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 18
   },
   {
     "city": "Wuhan",
@@ -132,7 +132,7 @@
     "country": "RU",
     "city_population": 10381222,
     "city_internet_population": 8823485,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 214
   },
   {
     "city": "Dhaka",
@@ -141,7 +141,7 @@
     "country": "BD",
     "city_population": 10356500,
     "city_internet_population": 1335988,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 5
   },
   {
     "city": "Seoul",
@@ -150,7 +150,7 @@
     "country": "KR",
     "city_population": 10349312,
     "city_internet_population": 9987609,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 16
   },
   {
     "city": "S\u00e3o Paulo",
@@ -159,7 +159,7 @@
     "country": "BR",
     "city_population": 10021295,
     "city_internet_population": 7406983,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 41
   },
   {
     "city": "Dongguan",
@@ -168,7 +168,7 @@
     "country": "CN",
     "city_population": 9644871,
     "city_internet_population": 6813343,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Xi\u2019an",
@@ -195,7 +195,7 @@
     "country": "CN",
     "city_population": 9236032,
     "city_internet_population": 6524530,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Foshan",
@@ -204,7 +204,7 @@
     "country": "CN",
     "city_population": 9042509,
     "city_internet_population": 6387822,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 7
   },
   {
     "city": "Ho Chi Minh City",
@@ -213,7 +213,7 @@
     "country": "VN",
     "city_population": 8993082,
     "city_internet_population": 6321237,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "London",
@@ -222,7 +222,7 @@
     "country": "GB",
     "city_population": 8961989,
     "city_internet_population": 8497596,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 224
   },
   {
     "city": "New York City",
@@ -231,7 +231,7 @@
     "country": "US",
     "city_population": 8804190,
     "city_internet_population": 7873612,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 60
   },
   {
     "city": "Jakarta",
@@ -240,7 +240,7 @@
     "country": "ID",
     "city_population": 8540121,
     "city_internet_population": 4588307,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 43
   },
   {
     "city": "Bengaluru",
@@ -249,7 +249,7 @@
     "country": "IN",
     "city_population": 8443675,
     "city_internet_population": 3461906,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 22
   },
   {
     "city": "Tokyo",
@@ -258,7 +258,7 @@
     "country": "JP",
     "city_population": 8336599,
     "city_internet_population": 7730561,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 150
   },
   {
     "city": "Hanoi",
@@ -267,7 +267,7 @@
     "country": "VN",
     "city_population": 8053663,
     "city_internet_population": 5660919,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Taipei",
@@ -276,7 +276,7 @@
     "country": "TW",
     "city_population": 7871900,
     "city_internet_population": 6819101,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 14
   },
   {
     "city": "Kinshasa",
@@ -294,7 +294,7 @@
     "country": "PE",
     "city_population": 7737002,
     "city_internet_population": 5048532,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Cairo",
@@ -303,7 +303,7 @@
     "country": "EG",
     "city_population": 7734614,
     "city_internet_population": 5562285,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Bogot\u00e1",
@@ -312,7 +312,7 @@
     "country": "CO",
     "city_population": 7674366,
     "city_internet_population": 4988867,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Hong Kong",
@@ -321,7 +321,7 @@
     "country": "HK",
     "city_population": 7482500,
     "city_internet_population": 6914812,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 43
   },
   {
     "city": "Chongqing",
@@ -339,7 +339,7 @@
     "country": "IQ",
     "city_population": 7216000,
     "city_internet_population": 3561817,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Qingdao",
@@ -357,7 +357,7 @@
     "country": "IR",
     "city_population": 7153309,
     "city_internet_population": 6016710,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 67
   },
   {
     "city": "Shenyang",
@@ -375,7 +375,7 @@
     "country": "IN",
     "city_population": 6809970,
     "city_internet_population": 2792087,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 5
   },
   {
     "city": "Suzhou",
@@ -393,7 +393,7 @@
     "country": "IN",
     "city_population": 6357693,
     "city_internet_population": 2606654,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Lahore",
@@ -411,7 +411,7 @@
     "country": "BR",
     "city_population": 6023699,
     "city_internet_population": 4452262,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Harbin",
@@ -429,7 +429,7 @@
     "country": "TH",
     "city_population": 5104476,
     "city_internet_population": 3973515,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 15
   },
   {
     "city": "Hefei",
@@ -438,7 +438,7 @@
     "country": "CN",
     "city_population": 5050000,
     "city_internet_population": 3567428,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Saint Petersburg",
@@ -447,7 +447,7 @@
     "country": "RU",
     "city_population": 5028000,
     "city_internet_population": 4273531,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 84
   },
   {
     "city": "Dalian",
@@ -465,7 +465,7 @@
     "country": "CL",
     "city_population": 4837295,
     "city_internet_population": 3982423,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 19
   },
   {
     "city": "Chennai",
@@ -474,7 +474,7 @@
     "country": "IN",
     "city_population": 4681087,
     "city_internet_population": 1919245,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Kolkata",
@@ -483,7 +483,7 @@
     "country": "IN",
     "city_population": 4631392,
     "city_internet_population": 1898870,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Sydney",
@@ -492,7 +492,7 @@
     "country": "AU",
     "city_population": 4627345,
     "city_internet_population": 4004737,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 71
   },
   {
     "city": "Xiamen",
@@ -519,7 +519,7 @@
     "country": "MM",
     "city_population": 4477638,
     "city_internet_population": 1057666,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Wuxi",
@@ -555,7 +555,7 @@
     "country": "CN",
     "city_population": 4253913,
     "city_internet_population": 3005055,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 7
   },
   {
     "city": "Melbourne",
@@ -564,7 +564,7 @@
     "country": "AU",
     "city_population": 4246375,
     "city_internet_population": 3675027,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 46
   },
   {
     "city": "Riyadh",
@@ -573,7 +573,7 @@
     "country": "SA",
     "city_population": 4205961,
     "city_internet_population": 4116051,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 7
   },
   {
     "city": "Changchun",
@@ -600,7 +600,7 @@
     "country": "US",
     "city_population": 3971883,
     "city_internet_population": 3552066,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 52
   },
   {
     "city": "Shijiazhuang",
@@ -681,7 +681,7 @@
     "country": "CN",
     "city_population": 3731203,
     "city_internet_population": 2635801,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Busan",
@@ -708,7 +708,7 @@
     "country": "CN",
     "city_population": 3590000,
     "city_internet_population": 2536052,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Yokohama",
@@ -717,7 +717,7 @@
     "country": "JP",
     "city_population": 3574443,
     "city_internet_population": 3314595,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 140
   },
   {
     "city": "Ibadan",
@@ -735,7 +735,7 @@
     "country": "SG",
     "city_population": 3547809,
     "city_internet_population": 2691934,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 105
   },
   {
     "city": "Ankara",
@@ -744,7 +744,7 @@
     "country": "TR",
     "city_population": 3517182,
     "city_internet_population": 2731779,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 11
   },
   {
     "city": "Shiyan",
@@ -762,7 +762,7 @@
     "country": "ZA",
     "city_population": 3433441,
     "city_internet_population": 2341606,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 31
   },
   {
     "city": "Berlin",
@@ -771,7 +771,7 @@
     "country": "DE",
     "city_population": 3426354,
     "city_internet_population": 3077309,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 127
   },
   {
     "city": "Tangshan",
@@ -780,7 +780,7 @@
     "country": "CN",
     "city_population": 3372102,
     "city_internet_population": 2382125,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Changzhou",
@@ -798,7 +798,7 @@
     "country": "ES",
     "city_population": 3255944,
     "city_internet_population": 3034723,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 56
   },
   {
     "city": "Pyongyang",
@@ -834,7 +834,7 @@
     "country": "IN",
     "city_population": 3124458,
     "city_internet_population": 1281027,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Durban",
@@ -843,7 +843,7 @@
     "country": "ZA",
     "city_population": 3120282,
     "city_internet_population": 2128032,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 7
   },
   {
     "city": "Changsha",
@@ -897,7 +897,7 @@
     "country": "VE",
     "city_population": 3000000,
     "city_internet_population": 1710000,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Dubai",
@@ -906,7 +906,7 @@
     "country": "AE",
     "city_population": 2956587,
     "city_internet_population": 2956587,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 14
   },
   {
     "city": "Huizhou",
@@ -933,7 +933,7 @@
     "country": "SA",
     "city_population": 2867446,
     "city_internet_population": 2806149,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Kanpur",
@@ -951,7 +951,7 @@
     "country": "UA",
     "city_population": 2797553,
     "city_internet_population": 1961779,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 76
   },
   {
     "city": "Luanda",
@@ -960,7 +960,7 @@
     "country": "AO",
     "city_population": 2776168,
     "city_internet_population": 999420,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Quezon City",
@@ -969,7 +969,7 @@
     "country": "PH",
     "city_population": 2761720,
     "city_internet_population": 1294694,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 7
   },
   {
     "city": "Addis Ababa",
@@ -978,7 +978,7 @@
     "country": "ET",
     "city_population": 2757729,
     "city_internet_population": 689432,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Osaka",
@@ -987,7 +987,7 @@
     "country": "JP",
     "city_population": 2753862,
     "city_internet_population": 2553667,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 19
   },
   {
     "city": "Nairobi",
@@ -996,7 +996,7 @@
     "country": "KE",
     "city_population": 2750547,
     "city_internet_population": 620664,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 13
   },
   {
     "city": "Linyi",
@@ -1023,7 +1023,7 @@
     "country": "US",
     "city_population": 2720546,
     "city_internet_population": 2432992,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 38
   },
   {
     "city": "Salvador",
@@ -1032,7 +1032,7 @@
     "country": "BR",
     "city_population": 2711840,
     "city_internet_population": 2004387,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Jaipur",
@@ -1041,7 +1041,7 @@
     "country": "IN",
     "city_population": 2711758,
     "city_internet_population": 1111820,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Dar es Salaam",
@@ -1050,7 +1050,7 @@
     "country": "TZ",
     "city_population": 2698652,
     "city_internet_population": 539730,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 6
   },
   {
     "city": "Wenzhou",
@@ -1068,7 +1068,7 @@
     "country": "KR",
     "city_population": 2628000,
     "city_internet_population": 2536152,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 16
   },
   {
     "city": "Yunfu",
@@ -1086,7 +1086,7 @@
     "country": "CA",
     "city_population": 2600000,
     "city_internet_population": 2509000,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 51
   },
   {
     "city": "Navi Mumbai",
@@ -1095,7 +1095,7 @@
     "country": "IN",
     "city_population": 2600000,
     "city_internet_population": 1066000,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 30
   },
   {
     "city": "Basrah",
@@ -1140,7 +1140,7 @@
     "country": "TR",
     "city_population": 2500603,
     "city_internet_population": 1942207,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Huai'an",
@@ -1167,7 +1167,7 @@
     "country": "IN",
     "city_population": 2472011,
     "city_internet_population": 1013524,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Giza",
@@ -1176,7 +1176,7 @@
     "country": "EG",
     "city_population": 2443203,
     "city_internet_population": 1757009,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Fortaleza",
@@ -1185,7 +1185,7 @@
     "country": "BR",
     "city_population": 2400000,
     "city_internet_population": 1773898,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Cali",
@@ -1203,7 +1203,7 @@
     "country": "ID",
     "city_population": 2374658,
     "city_internet_population": 1275820,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Belo Horizonte",
@@ -1212,7 +1212,7 @@
     "country": "BR",
     "city_population": 2373224,
     "city_internet_population": 1754107,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Nanchang",
@@ -1239,7 +1239,7 @@
     "country": "IT",
     "city_population": 2318895,
     "city_internet_population": 1764679,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 34
   },
   {
     "city": "Mashhad",
@@ -1248,7 +1248,7 @@
     "country": "IR",
     "city_population": 2307177,
     "city_internet_population": 1940586,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Brooklyn",
@@ -1257,7 +1257,7 @@
     "country": "US",
     "city_population": 2300664,
     "city_internet_population": 2057490,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 60
   },
   {
     "city": "Shaoxing",
@@ -1275,7 +1275,7 @@
     "country": "US",
     "city_population": 2296224,
     "city_internet_population": 2053519,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 15
   },
   {
     "city": "Nantong",
@@ -1293,7 +1293,7 @@
     "country": "US",
     "city_population": 2272771,
     "city_internet_population": 2032545,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 56
   },
   {
     "city": "Nagpur",
@@ -1320,7 +1320,7 @@
     "country": "VE",
     "city_population": 2225000,
     "city_internet_population": 1268250,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Bras\u00edlia",
@@ -1338,7 +1338,7 @@
     "country": "CN",
     "city_population": 2207090,
     "city_internet_population": 1559135,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Santo Domingo",
@@ -1347,7 +1347,7 @@
     "country": "DO",
     "city_population": 2201941,
     "city_internet_population": 1669071,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 6
   },
   {
     "city": "Nagoya",
@@ -1356,7 +1356,7 @@
     "country": "JP",
     "city_population": 2191279,
     "city_internet_population": 2031981,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 6
   },
   {
     "city": "Brisbane",
@@ -1365,7 +1365,7 @@
     "country": "AU",
     "city_population": 2189878,
     "city_internet_population": 1895230,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 25
   },
   {
     "city": "Havana",
@@ -1374,7 +1374,7 @@
     "country": "CU",
     "city_population": 2163824,
     "city_internet_population": 1470768,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Baotou",
@@ -1392,7 +1392,7 @@
     "country": "FR",
     "city_population": 2138551,
     "city_internet_population": 1782262,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 285
   },
   {
     "city": "Coimbatore",
@@ -1401,7 +1401,7 @@
     "country": "IN",
     "city_population": 2136916,
     "city_internet_population": 876135,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Kunshan",
@@ -1446,7 +1446,7 @@
     "country": "ZA",
     "city_population": 2026469,
     "city_internet_population": 1382051,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 29
   },
   {
     "city": "Kowloon",
@@ -1455,7 +1455,7 @@
     "country": "HK",
     "city_population": 2019533,
     "city_internet_population": 1866313,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 43
   },
   {
     "city": "Al Ba\u015frah al Qad\u012bmah",
@@ -1473,7 +1473,7 @@
     "country": "BO",
     "city_population": 2004652,
     "city_internet_population": 1105346,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 10
   },
   {
     "city": "Lianyungang",
@@ -1491,7 +1491,7 @@
     "country": "KZ",
     "city_population": 2000900,
     "city_internet_population": 1719625,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 15
   },
   {
     "city": "Medell\u00edn",
@@ -1500,7 +1500,7 @@
     "country": "CO",
     "city_population": 1999979,
     "city_internet_population": 1300124,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 7
   },
   {
     "city": "Tashkent",
@@ -1509,7 +1509,7 @@
     "country": "UZ",
     "city_population": 1978028,
     "city_internet_population": 1392531,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 6
   },
   {
     "city": "Algiers",
@@ -1518,7 +1518,7 @@
     "country": "DZ",
     "city_population": 1977663,
     "city_internet_population": 1137156,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Ganzhou",
@@ -1536,7 +1536,7 @@
     "country": "SD",
     "city_population": 1974647,
     "city_internet_population": 501560,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Accra",
@@ -1545,7 +1545,7 @@
     "country": "GH",
     "city_population": 1963264,
     "city_internet_population": 1040529,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Guayaquil",
@@ -1554,7 +1554,7 @@
     "country": "EC",
     "city_population": 1952029,
     "city_internet_population": 1055323,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Ordos",
@@ -1581,7 +1581,7 @@
     "country": "LB",
     "city_population": 1916100,
     "city_internet_population": 1498021,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 5
   },
   {
     "city": "Jieyang",
@@ -1599,7 +1599,7 @@
     "country": "AU",
     "city_population": 1896548,
     "city_internet_population": 1641368,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 20
   },
   {
     "city": "Sapporo",
@@ -1608,7 +1608,7 @@
     "country": "JP",
     "city_population": 1883027,
     "city_internet_population": 1746138,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Jilin",
@@ -1626,7 +1626,7 @@
     "country": "RO",
     "city_population": 1877155,
     "city_internet_population": 1472727,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 38
   },
   {
     "city": "Camayenne",
@@ -1680,7 +1680,7 @@
     "country": "BO",
     "city_population": 1831434,
     "city_internet_population": 1009835,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Vadodara",
@@ -1689,7 +1689,7 @@
     "country": "IN",
     "city_population": 1822221,
     "city_internet_population": 747110,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Iztapalapa",
@@ -1698,7 +1698,7 @@
     "country": "MX",
     "city_population": 1815786,
     "city_internet_population": 1306821,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "Nanyang",
@@ -1770,7 +1770,7 @@
     "country": "VE",
     "city_population": 1754256,
     "city_internet_population": 999925,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Medan",
@@ -1797,7 +1797,7 @@
     "country": "PK",
     "city_population": 1743101,
     "city_internet_population": 297563,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Minsk",
@@ -1806,7 +1806,7 @@
     "country": "BY",
     "city_population": 1742124,
     "city_internet_population": 1482336,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 18
   },
   {
     "city": "Budapest",
@@ -1815,7 +1815,7 @@
     "country": "HU",
     "city_population": 1741041,
     "city_internet_population": 1475900,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 38
   },
   {
     "city": "Mosul",
@@ -1833,7 +1833,7 @@
     "country": "DE",
     "city_population": 1739117,
     "city_internet_population": 1561952,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 98
   },
   {
     "city": "Qingyuan",
@@ -1860,7 +1860,7 @@
     "country": "BR",
     "city_population": 1718421,
     "city_internet_population": 1270126,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Warsaw",
@@ -1869,7 +1869,7 @@
     "country": "PL",
     "city_population": 1702139,
     "city_internet_population": 1478085,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 46
   },
   {
     "city": "Bandung",
@@ -1878,7 +1878,7 @@
     "country": "ID",
     "city_population": 1699719,
     "city_internet_population": 913199,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 6
   },
   {
     "city": "Soweto",
@@ -1887,7 +1887,7 @@
     "country": "ZA",
     "city_population": 1695047,
     "city_internet_population": 1156022,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 27
   },
   {
     "city": "Vienna",
@@ -1896,7 +1896,7 @@
     "country": "AT",
     "city_population": 1691468,
     "city_internet_population": 1480532,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 121
   },
   {
     "city": "Kallakurichi",
@@ -1941,7 +1941,7 @@
     "country": "MA",
     "city_population": 1655753,
     "city_internet_population": 1392825,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Ecatepec de Morelos",
@@ -1950,7 +1950,7 @@
     "country": "MX",
     "city_population": 1655015,
     "city_internet_population": 1191114,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "Suzhou",
@@ -1977,7 +1977,7 @@
     "country": "ES",
     "city_population": 1621537,
     "city_internet_population": 1511364,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 37
   },
   {
     "city": "Valencia",
@@ -1986,7 +1986,7 @@
     "country": "VE",
     "city_population": 1619470,
     "city_internet_population": 923097,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Pretoria",
@@ -1995,7 +1995,7 @@
     "country": "ZA",
     "city_population": 1619438,
     "city_internet_population": 1104456,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 28
   },
   {
     "city": "Yancheng",
@@ -2013,7 +2013,7 @@
     "country": "US",
     "city_population": 1608139,
     "city_internet_population": 1438163,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 43
   },
   {
     "city": "Taizhou",
@@ -2040,7 +2040,7 @@
     "country": "US",
     "city_population": 1603797,
     "city_internet_population": 1434280,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 23
   },
   {
     "city": "Aleppo",
@@ -2058,7 +2058,7 @@
     "country": "CA",
     "city_population": 1600000,
     "city_internet_population": 1544000,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 56
   },
   {
     "city": "Manila",
@@ -2067,7 +2067,7 @@
     "country": "PH",
     "city_population": 1600000,
     "city_internet_population": 750080,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "Patna",
@@ -2085,7 +2085,7 @@
     "country": "IN",
     "city_population": 1599914,
     "city_internet_population": 655964,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Manaus",
@@ -2139,7 +2139,7 @@
     "country": "KH",
     "city_population": 1573544,
     "city_internet_population": 1239952,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Guilin",
@@ -2184,7 +2184,7 @@
     "country": "IR",
     "city_population": 1547164,
     "city_internet_population": 1301333,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Ludhi\u0101na",
@@ -2229,7 +2229,7 @@
     "country": "JP",
     "city_population": 1528478,
     "city_internet_population": 1417363,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 16
   },
   {
     "city": "Bekasi",
@@ -2238,7 +2238,7 @@
     "country": "ID",
     "city_population": 1520119,
     "city_internet_population": 816706,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 42
   },
   {
     "city": "Kaohsiung",
@@ -2247,7 +2247,7 @@
     "country": "TW",
     "city_population": 1519711,
     "city_internet_population": 1316462,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Stockholm",
@@ -2256,7 +2256,7 @@
     "country": "SE",
     "city_population": 1515017,
     "city_internet_population": 1432288,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 85
   },
   {
     "city": "Caloocan City",
@@ -2265,7 +2265,7 @@
     "country": "PH",
     "city_population": 1500000,
     "city_internet_population": 703200,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 7
   },
   {
     "city": "Guadalajara",
@@ -2274,7 +2274,7 @@
     "country": "MX",
     "city_population": 1495182,
     "city_internet_population": 1076082,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Yinchuan",
@@ -2292,7 +2292,7 @@
     "country": "US",
     "city_population": 1487536,
     "city_internet_population": 1330307,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 60
   },
   {
     "city": "Taizhou",
@@ -2310,7 +2310,7 @@
     "country": "PY",
     "city_population": 1482200,
     "city_internet_population": 1104464,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Yiwu",
@@ -2328,7 +2328,7 @@
     "country": "BR",
     "city_population": 1478098,
     "city_internet_population": 1092498,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Daejeon",
@@ -2337,7 +2337,7 @@
     "country": "KR",
     "city_population": 1475221,
     "city_internet_population": 1423662,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "San Antonio",
@@ -2346,7 +2346,7 @@
     "country": "US",
     "city_population": 1469845,
     "city_internet_population": 1314486,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "Quanzhou",
@@ -2364,7 +2364,7 @@
     "country": "GH",
     "city_population": 1468609,
     "city_internet_population": 778362,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Madurai",
@@ -2382,7 +2382,7 @@
     "country": "CN",
     "city_population": 1463990,
     "city_internet_population": 1034193,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Kota Bharu",
@@ -2400,7 +2400,7 @@
     "country": "JP",
     "city_population": 1459640,
     "city_internet_population": 1353529,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 14
   },
   {
     "city": "Cixi",
@@ -2427,7 +2427,7 @@
     "country": "MY",
     "city_population": 1453975,
     "city_internet_population": 1302107,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 22
   },
   {
     "city": "Kaifeng",
@@ -2454,7 +2454,7 @@
     "country": "IR",
     "city_population": 1448075,
     "city_internet_population": 1217988,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 64
   },
   {
     "city": "Kathmandu",
@@ -2463,7 +2463,7 @@
     "country": "NP",
     "city_population": 1442271,
     "city_internet_population": 308696,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Palembang",
@@ -2544,7 +2544,7 @@
     "country": "UA",
     "city_population": 1430885,
     "city_internet_population": 1003405,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 14
   },
   {
     "city": "Agra",
@@ -2553,7 +2553,7 @@
     "country": "IN",
     "city_population": 1430055,
     "city_internet_population": 586322,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "C\u00f3rdoba",
@@ -2562,7 +2562,7 @@
     "country": "AR",
     "city_population": 1428214,
     "city_internet_population": 1061090,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Tabriz",
@@ -2580,7 +2580,7 @@
     "country": "RU",
     "city_population": 1419007,
     "city_internet_population": 1206080,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 20
   },
   {
     "city": "Gwangju",
@@ -2589,7 +2589,7 @@
     "country": "KR",
     "city_population": 1416938,
     "city_internet_population": 1367416,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Jinjiang",
@@ -2607,7 +2607,7 @@
     "country": "TR",
     "city_population": 1412701,
     "city_internet_population": 1097238,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Bozhou",
@@ -2661,7 +2661,7 @@
     "country": "EC",
     "city_population": 1399814,
     "city_internet_population": 756780,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "San Diego",
@@ -2670,7 +2670,7 @@
     "country": "US",
     "city_population": 1394928,
     "city_internet_population": 1247488,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 19
   },
   {
     "city": "Fukuoka",
@@ -2679,7 +2679,7 @@
     "country": "JP",
     "city_population": 1392289,
     "city_internet_population": 1291075,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "Antananarivo",
@@ -2688,7 +2688,7 @@
     "country": "MG",
     "city_population": 1391433,
     "city_internet_population": 208714,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "R\u0101jkot",
@@ -2724,7 +2724,7 @@
     "country": "US",
     "city_population": 1385108,
     "city_internet_population": 1238706,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 51
   },
   {
     "city": "Gujranwala",
@@ -2769,7 +2769,7 @@
     "country": "BR",
     "city_population": 1372741,
     "city_internet_population": 1014626,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Tangerang",
@@ -2778,7 +2778,7 @@
     "country": "ID",
     "city_population": 1372124,
     "city_internet_population": 737194,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 43
   },
   {
     "city": "Najafgarh",
@@ -2787,7 +2787,7 @@
     "country": "IN",
     "city_population": 1365000,
     "city_internet_population": 559650,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 21
   },
   {
     "city": "Handan",
@@ -2805,7 +2805,7 @@
     "country": "UG",
     "city_population": 1353189,
     "city_internet_population": 49688,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Yichang",
@@ -2823,7 +2823,7 @@
     "country": "RU",
     "city_population": 1349772,
     "city_internet_population": 1147234,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 20
   },
   {
     "city": "Heze",
@@ -2859,7 +2859,7 @@
     "country": "CM",
     "city_population": 1338082,
     "city_internet_population": 448257,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Gorakhpur",
@@ -2868,7 +2868,7 @@
     "country": "IN",
     "city_population": 1324570,
     "city_internet_population": 543073,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Sharjah",
@@ -2877,7 +2877,7 @@
     "country": "AE",
     "city_population": 1324473,
     "city_internet_population": 1324473,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 14
   },
   {
     "city": "Mecca",
@@ -2931,7 +2931,7 @@
     "country": "JP",
     "city_population": 1306785,
     "city_internet_population": 1211786,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 148
   },
   {
     "city": "South Tangerang",
@@ -2940,7 +2940,7 @@
     "country": "ID",
     "city_population": 1303569,
     "city_internet_population": 700361,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 43
   },
   {
     "city": "Tijuana",
@@ -2949,7 +2949,7 @@
     "country": "MX",
     "city_population": 1300983,
     "city_internet_population": 936317,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 15
   },
   {
     "city": "Dallas",
@@ -2958,7 +2958,7 @@
     "country": "US",
     "city_population": 1300092,
     "city_internet_population": 1162675,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 41
   },
   {
     "city": "Medina",
@@ -2976,7 +2976,7 @@
     "country": "CM",
     "city_population": 1299369,
     "city_internet_population": 435288,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Bamako",
@@ -3066,7 +3066,7 @@
     "country": "IN",
     "city_population": 1284606,
     "city_internet_population": 526688,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Nizhniy Novgorod",
@@ -3075,7 +3075,7 @@
     "country": "RU",
     "city_population": 1284164,
     "city_internet_population": 1091470,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 7
   },
   {
     "city": "Amman",
@@ -3084,7 +3084,7 @@
     "country": "JO",
     "city_population": 1275857,
     "city_internet_population": 852148,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 7
   },
   {
     "city": "Budta",
@@ -3102,7 +3102,7 @@
     "country": "RS",
     "city_population": 1273651,
     "city_internet_population": 998135,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 19
   },
   {
     "city": "Montevideo",
@@ -3111,7 +3111,7 @@
     "country": "UY",
     "city_population": 1270737,
     "city_internet_population": 1059178,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 14
   },
   {
     "city": "Lusaka",
@@ -3120,7 +3120,7 @@
     "country": "ZM",
     "city_population": 1267440,
     "city_internet_population": 240813,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Xuchang",
@@ -3138,7 +3138,7 @@
     "country": "IN",
     "city_population": 1262255,
     "city_internet_population": 517524,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 30
   },
   {
     "city": "Zigong",
@@ -3156,7 +3156,7 @@
     "country": "IN",
     "city_population": 1261517,
     "city_internet_population": 517221,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 30
   },
   {
     "city": "Munich",
@@ -3165,7 +3165,7 @@
     "country": "DE",
     "city_population": 1260391,
     "city_internet_population": 1131994,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 89
   },
   {
     "city": "Xuzhou",
@@ -3174,7 +3174,7 @@
     "country": "CN",
     "city_population": 1253991,
     "city_internet_population": 885846,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Ra\u2019s Bayr\u016bt",
@@ -3183,7 +3183,7 @@
     "country": "LB",
     "city_population": 1251739,
     "city_internet_population": 978619,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 5
   },
   {
     "city": "Neijiang",
@@ -3201,7 +3201,7 @@
     "country": "IR",
     "city_population": 1249942,
     "city_internet_population": 1051337,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 5
   },
   {
     "city": "Yiyang",
@@ -3219,7 +3219,7 @@
     "country": "TR",
     "city_population": 1248988,
     "city_internet_population": 970083,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Suwon",
@@ -3228,7 +3228,7 @@
     "country": "KR",
     "city_population": 1242724,
     "city_internet_population": 1199291,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 16
   },
   {
     "city": "Jining",
@@ -3255,7 +3255,7 @@
     "country": "IT",
     "city_population": 1236837,
     "city_internet_population": 941232,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 80
   },
   {
     "city": "Abuja",
@@ -3309,7 +3309,7 @@
     "country": "AU",
     "city_population": 1225235,
     "city_internet_population": 1060380,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 15
   },
   {
     "city": "Meerut",
@@ -3336,7 +3336,7 @@
     "country": "IN",
     "city_population": 1220229,
     "city_internet_population": 500293,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 17
   },
   {
     "city": "Peshawar",
@@ -3372,7 +3372,7 @@
     "country": "PH",
     "city_population": 1212504,
     "city_internet_population": 568421,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Mandalay",
@@ -3381,7 +3381,7 @@
     "country": "MM",
     "city_population": 1208099,
     "city_internet_population": 285366,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Santiago de los Caballeros",
@@ -3390,7 +3390,7 @@
     "country": "DO",
     "city_population": 1200000,
     "city_internet_population": 909600,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 6
   },
   {
     "city": "Omdurman",
@@ -3399,7 +3399,7 @@
     "country": "SD",
     "city_population": 1200000,
     "city_internet_population": 304800,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Weinan",
@@ -3417,7 +3417,7 @@
     "country": "IN",
     "city_population": 1199191,
     "city_internet_population": 491668,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 18
   },
   {
     "city": "Depok",
@@ -3426,7 +3426,7 @@
     "country": "ID",
     "city_population": 1198129,
     "city_internet_population": 643712,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 43
   },
   {
     "city": "Dhanbad",
@@ -3435,7 +3435,7 @@
     "country": "IN",
     "city_population": 1196214,
     "city_internet_population": 490447,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Saitama",
@@ -3444,7 +3444,7 @@
     "country": "JP",
     "city_population": 1193350,
     "city_internet_population": 1106598,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 142
   },
   {
     "city": "Dombivli",
@@ -3453,7 +3453,7 @@
     "country": "IN",
     "city_population": 1193000,
     "city_internet_population": 489130,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 30
   },
   {
     "city": "Maputo",
@@ -3462,7 +3462,7 @@
     "country": "MZ",
     "city_population": 1191613,
     "city_internet_population": 179933,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Gustavo Adolfo Madero",
@@ -3471,7 +3471,7 @@
     "country": "MX",
     "city_population": 1185772,
     "city_internet_population": 853400,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "Jiaxing",
@@ -3489,7 +3489,7 @@
     "country": "AR",
     "city_population": 1173533,
     "city_internet_population": 871875,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Goi\u00e2nia",
@@ -3507,7 +3507,7 @@
     "country": "BR",
     "city_population": 1169577,
     "city_internet_population": 864462,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 41
   },
   {
     "city": "Prague",
@@ -3516,7 +3516,7 @@
     "country": "CZ",
     "city_population": 1165581,
     "city_internet_population": 948070,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 138
   },
   {
     "city": "Varanasi",
@@ -3534,7 +3534,7 @@
     "country": "ID",
     "city_population": 1164352,
     "city_internet_population": 625565,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 105
   },
   {
     "city": "Jiujiang",
@@ -3552,7 +3552,7 @@
     "country": "DK",
     "city_population": 1153615,
     "city_internet_population": 1113805,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 87
   },
   {
     "city": "Sofia",
@@ -3561,7 +3561,7 @@
     "country": "BG",
     "city_population": 1152556,
     "city_internet_population": 808661,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 47
   },
   {
     "city": "Tripoli",
@@ -3588,7 +3588,7 @@
     "country": "JP",
     "city_population": 1143841,
     "city_internet_population": 1060688,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Zapopan",
@@ -3597,7 +3597,7 @@
     "country": "MX",
     "city_population": 1142483,
     "city_internet_population": 822245,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Bijie",
@@ -3615,7 +3615,7 @@
     "country": "MX",
     "city_population": 1135512,
     "city_internet_population": 817227,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 6
   },
   {
     "city": "Samara",
@@ -3624,7 +3624,7 @@
     "country": "RU",
     "city_population": 1134730,
     "city_internet_population": 964460,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 5
   },
   {
     "city": "Kigali",
@@ -3633,7 +3633,7 @@
     "country": "RW",
     "city_population": 1132686,
     "city_internet_population": 294498,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Zhuzhou",
@@ -3651,7 +3651,7 @@
     "country": "RU",
     "city_population": 1129281,
     "city_internet_population": 959828,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 13
   },
   {
     "city": "Malingao",
@@ -3678,7 +3678,7 @@
     "country": "AZ",
     "city_population": 1116513,
     "city_internet_population": 905492,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Shangrao",
@@ -3732,7 +3732,7 @@
     "country": "RU",
     "city_population": 1104738,
     "city_internet_population": 938968,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 10
   },
   {
     "city": "Ciudad Nezahualcoyotl",
@@ -3741,7 +3741,7 @@
     "country": "MX",
     "city_population": 1104585,
     "city_internet_population": 794969,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "Yerevan",
@@ -3750,7 +3750,7 @@
     "country": "AM",
     "city_population": 1093485,
     "city_internet_population": 727648,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 13
   },
   {
     "city": "Amritsar",
@@ -3759,7 +3759,7 @@
     "country": "IN",
     "city_population": 1092450,
     "city_internet_population": 447904,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Fuzhou",
@@ -3777,7 +3777,7 @@
     "country": "BF",
     "city_population": 1086505,
     "city_internet_population": 195570,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Guigang",
@@ -3804,7 +3804,7 @@
     "country": "RU",
     "city_population": 1074482,
     "city_internet_population": 913252,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 7
   },
   {
     "city": "Allah\u0101b\u0101d",
@@ -3822,7 +3822,7 @@
     "country": "KR",
     "city_population": 1073069,
     "city_internet_population": 1035565,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 16
   },
   {
     "city": "Gaziantep",
@@ -3858,7 +3858,7 @@
     "country": "RU",
     "city_population": 1062919,
     "city_internet_population": 903424,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 6
   },
   {
     "city": "Yulin",
@@ -3885,7 +3885,7 @@
     "country": "GE",
     "city_population": 1049498,
     "city_internet_population": 761217,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "Xinxiang",
@@ -3894,7 +3894,7 @@
     "country": "CN",
     "city_population": 1047088,
     "city_internet_population": 739685,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 7
   },
   {
     "city": "Yichun",
@@ -3912,7 +3912,7 @@
     "country": "TW",
     "city_population": 1040725,
     "city_internet_population": 901537,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Teni",
@@ -3939,7 +3939,7 @@
     "country": "RU",
     "city_population": 1033338,
     "city_internet_population": 878282,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Seongnam-si",
@@ -3948,7 +3948,7 @@
     "country": "KR",
     "city_population": 1031935,
     "city_internet_population": 995869,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 16
   },
   {
     "city": "Campinas",
@@ -3957,7 +3957,7 @@
     "country": "BR",
     "city_population": 1031554,
     "city_internet_population": 762446,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Sanya",
@@ -3993,7 +3993,7 @@
     "country": "IN",
     "city_population": 1027672,
     "city_internet_population": 421345,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "San Jose",
@@ -4002,7 +4002,7 @@
     "country": "US",
     "city_population": 1026908,
     "city_internet_population": 918366,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 107
   },
   {
     "city": "Longyan",
@@ -4020,7 +4020,7 @@
     "country": "UA",
     "city_population": 1024700,
     "city_internet_population": 718569,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 7
   },
   {
     "city": "Dublin",
@@ -4029,7 +4029,7 @@
     "country": "IE",
     "city_population": 1024027,
     "city_internet_population": 942103,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 75
   },
   {
     "city": "Tiruchirappalli",
@@ -4056,7 +4056,7 @@
     "country": "CA",
     "city_population": 1019942,
     "city_internet_population": 984244,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 12
   },
   {
     "city": "Brussels",
@@ -4065,7 +4065,7 @@
     "country": "BE",
     "city_population": 1019022,
     "city_internet_population": 932652,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 114
   },
   {
     "city": "Aurangabad",
@@ -4092,7 +4092,7 @@
     "country": "UA",
     "city_population": 1013159,
     "city_internet_population": 710476,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "Volgograd",
@@ -4101,7 +4101,7 @@
     "country": "RU",
     "city_population": 1011417,
     "city_internet_population": 859650,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Wuwei",
@@ -4137,7 +4137,7 @@
     "country": "BR",
     "city_population": 1002118,
     "city_internet_population": 740689,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Zhu Cheng City",
@@ -4155,7 +4155,7 @@
     "country": "IN",
     "city_population": 1000000,
     "city_internet_population": 410000,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Dongying",
@@ -4182,7 +4182,7 @@
     "country": "UA",
     "city_population": 998103,
     "city_internet_population": 699918,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 5
   },
   {
     "city": "Kitakyushu",
@@ -4191,7 +4191,7 @@
     "country": "JP",
     "city_population": 997536,
     "city_internet_population": 925019,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Sol\u0101pur",
@@ -4209,7 +4209,7 @@
     "country": "GT",
     "city_population": 994938,
     "city_internet_population": 441762,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Meizhou",
@@ -4263,7 +4263,7 @@
     "country": "GB",
     "city_population": 984333,
     "city_internet_population": 933326,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 21
   },
   {
     "city": "Perm",
@@ -4272,7 +4272,7 @@
     "country": "RU",
     "city_population": 982419,
     "city_internet_population": 835003,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "Pingdingshan",
@@ -4326,7 +4326,7 @@
     "country": "ZA",
     "city_population": 967677,
     "city_internet_population": 659955,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "F\u00e8s",
@@ -4344,7 +4344,7 @@
     "country": "DE",
     "city_population": 963395,
     "city_internet_population": 865253,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 132
   },
   {
     "city": "Tiruppur",
@@ -4353,7 +4353,7 @@
     "country": "IN",
     "city_population": 963173,
     "city_internet_population": 394900,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Ulsan",
@@ -4362,7 +4362,7 @@
     "country": "KR",
     "city_population": 962865,
     "city_internet_population": 929213,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Chand\u012bgarh",
@@ -4380,7 +4380,7 @@
     "country": "IT",
     "city_population": 959470,
     "city_internet_population": 730156,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 9
   },
   {
     "city": "Xiangtan",
@@ -4443,7 +4443,7 @@
     "country": "US",
     "city_population": 949611,
     "city_internet_population": 849239,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Sul\u0163\u0101nah",
@@ -4488,7 +4488,7 @@
     "country": "IQ",
     "city_population": 932800,
     "city_internet_population": 460430,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Austin",
@@ -4497,7 +4497,7 @@
     "country": "US",
     "city_population": 931830,
     "city_internet_population": 833338,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 16
   },
   {
     "city": "Rui\u2019an",
@@ -4515,7 +4515,7 @@
     "country": "RU",
     "city_population": 927200,
     "city_internet_population": 788070,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 7
   },
   {
     "city": "Nay Pyi Taw",
@@ -4542,7 +4542,7 @@
     "country": "JP",
     "city_population": 919729,
     "city_internet_population": 852868,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 132
   },
   {
     "city": "Fort Worth",
@@ -4551,7 +4551,7 @@
     "country": "US",
     "city_population": 918915,
     "city_internet_population": 821788,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 24
   },
   {
     "city": "Salem",
@@ -4560,7 +4560,7 @@
     "country": "IN",
     "city_population": 917414,
     "city_internet_population": 376139,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "S\u00e3o Lu\u00eds",
@@ -4596,7 +4596,7 @@
     "country": "US",
     "city_population": 905748,
     "city_internet_population": 810013,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 15
   },
   {
     "city": "Ziyang",
@@ -4614,7 +4614,7 @@
     "country": "MA",
     "city_population": 903485,
     "city_internet_population": 760014,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Quzhou",
@@ -4641,7 +4641,7 @@
     "country": "IQ",
     "city_population": 900000,
     "city_internet_population": 444239,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Qom",
@@ -4650,7 +4650,7 @@
     "country": "IR",
     "city_population": 900000,
     "city_internet_population": 756997,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Bishkek",
@@ -4659,7 +4659,7 @@
     "country": "KG",
     "city_population": 900000,
     "city_internet_population": 343791,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 6
   },
   {
     "city": "Zaozhuang",
@@ -4704,7 +4704,7 @@
     "country": "US",
     "city_population": 887642,
     "city_internet_population": 793820,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Zhoushan",
@@ -4713,7 +4713,7 @@
     "country": "CN",
     "city_population": 882932,
     "city_internet_population": 623722,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Gwalior",
@@ -4740,7 +4740,7 @@
     "country": "MY",
     "city_population": 879867,
     "city_internet_population": 787964,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 22
   },
   {
     "city": "Mendoza",
@@ -4749,7 +4749,7 @@
     "country": "AR",
     "city_population": 876884,
     "city_internet_population": 651480,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Konya",
@@ -4794,7 +4794,7 @@
     "country": "US",
     "city_population": 874579,
     "city_internet_population": 782138,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 7
   },
   {
     "city": "Pikine",
@@ -4812,7 +4812,7 @@
     "country": "IT",
     "city_population": 870456,
     "city_internet_population": 662417,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 15
   },
   {
     "city": "Ankang",
@@ -4830,7 +4830,7 @@
     "country": "IN",
     "city_population": 868313,
     "city_internet_population": 356008,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Langfang",
@@ -4839,7 +4839,7 @@
     "country": "CN",
     "city_population": 868066,
     "city_internet_population": 613220,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 6
   },
   {
     "city": "Jiaozuo",
@@ -4857,7 +4857,7 @@
     "country": "US",
     "city_population": 864816,
     "city_internet_population": 773407,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 83
   },
   {
     "city": "Liverpool",
@@ -4866,7 +4866,7 @@
     "country": "GB",
     "city_population": 864122,
     "city_internet_population": 819344,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 52
   },
   {
     "city": "Saratov",
@@ -4875,7 +4875,7 @@
     "country": "RU",
     "city_population": 863725,
     "city_internet_population": 734120,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 10
   },
   {
     "city": "Rohini",
@@ -4884,7 +4884,7 @@
     "country": "IN",
     "city_population": 860000,
     "city_internet_population": 352600,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 20
   },
   {
     "city": "Guang\u2019an",
@@ -4902,7 +4902,7 @@
     "country": "HN",
     "city_population": 850848,
     "city_internet_population": 273431,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Bucheon-si",
@@ -4911,7 +4911,7 @@
     "country": "KR",
     "city_population": 850731,
     "city_internet_population": 820998,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 16
   },
   {
     "city": "Voronezh",
@@ -4920,7 +4920,7 @@
     "country": "RU",
     "city_population": 848752,
     "city_internet_population": 721393,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 11
   },
   {
     "city": "Ulan Bator",
@@ -4929,7 +4929,7 @@
     "country": "MN",
     "city_population": 844818,
     "city_internet_population": 528011,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Weihai",
@@ -4965,7 +4965,7 @@
     "country": "BO",
     "city_population": 841276,
     "city_internet_population": 463871,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Ahvaz",
@@ -5010,7 +5010,7 @@
     "country": "CN",
     "city_population": 840000,
     "city_internet_population": 593394,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 5
   },
   {
     "city": "Xinyu",
@@ -5055,7 +5055,7 @@
     "country": "MY",
     "city_population": 833571,
     "city_internet_population": 746504,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 22
   },
   {
     "city": "Taicang",
@@ -5064,7 +5064,7 @@
     "country": "CN",
     "city_population": 831113,
     "city_internet_population": 587116,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 5
   },
   {
     "city": "Bi\u00ean H\u00f2a",
@@ -5073,7 +5073,7 @@
     "country": "VN",
     "city_population": 830829,
     "city_internet_population": 583989,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Chenzhou",
@@ -5091,7 +5091,7 @@
     "country": "BR",
     "city_population": 818329,
     "city_internet_population": 604846,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Jos",
@@ -5109,7 +5109,7 @@
     "country": "ES",
     "city_population": 814208,
     "city_internet_population": 758887,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 9
   },
   {
     "city": "Ilorin",
@@ -5127,7 +5127,7 @@
     "country": "PE",
     "city_population": 813264,
     "city_internet_population": 530669,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Ottawa",
@@ -5136,7 +5136,7 @@
     "country": "CA",
     "city_population": 812129,
     "city_internet_population": 783704,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 29
   },
   {
     "city": "C\u1ea7n Th\u01a1",
@@ -5181,7 +5181,7 @@
     "country": "MY",
     "city_population": 802489,
     "city_internet_population": 718669,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 105
   },
   {
     "city": "Jerusalem",
@@ -5190,7 +5190,7 @@
     "country": "IL",
     "city_population": 801000,
     "city_internet_population": 695170,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 16
   },
   {
     "city": "Bandar Lampung",
@@ -5208,7 +5208,7 @@
     "country": "ID",
     "city_population": 800000,
     "city_internet_population": 429811,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 42
   },
   {
     "city": "Narela",
@@ -5217,7 +5217,7 @@
     "country": "IN",
     "city_population": 800000,
     "city_internet_population": 328000,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 20
   },
   {
     "city": "Mombasa",
@@ -5226,7 +5226,7 @@
     "country": "KE",
     "city_population": 799668,
     "city_internet_population": 180446,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Xingtai",
@@ -5244,7 +5244,7 @@
     "country": "PH",
     "city_population": 798634,
     "city_internet_population": 374399,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Niigata",
@@ -5253,7 +5253,7 @@
     "country": "JP",
     "city_population": 797591,
     "city_internet_population": 739609,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Muscat",
@@ -5262,7 +5262,7 @@
     "country": "OM",
     "city_population": 797000,
     "city_internet_population": 759001,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Marseille",
@@ -5271,7 +5271,7 @@
     "country": "FR",
     "city_population": 794811,
     "city_internet_population": 662393,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 28
   },
   {
     "city": "Zarqa",
@@ -5280,7 +5280,7 @@
     "country": "JO",
     "city_population": 792665,
     "city_internet_population": 529423,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 7
   },
   {
     "city": "Naucalpan de Ju\u00e1rez",
@@ -5289,7 +5289,7 @@
     "country": "MX",
     "city_population": 792211,
     "city_internet_population": 570154,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "\u00c7ankaya",
@@ -5298,7 +5298,7 @@
     "country": "TR",
     "city_population": 792189,
     "city_internet_population": 615289,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 11
   },
   {
     "city": "Hamamatsu",
@@ -5352,7 +5352,7 @@
     "country": "DZ",
     "city_population": 786499,
     "city_internet_population": 452236,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Jalandhar",
@@ -5370,7 +5370,7 @@
     "country": "IN",
     "city_population": 784153,
     "city_internet_population": 321502,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 5
   },
   {
     "city": "Chuzhou",
@@ -5388,7 +5388,7 @@
     "country": "JP",
     "city_population": 782339,
     "city_internet_population": 725466,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 17
   },
   {
     "city": "San Miguel de Tucum\u00e1n",
@@ -5406,7 +5406,7 @@
     "country": "BJ",
     "city_population": 780000,
     "city_internet_population": 226200,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "M\u00e9rida",
@@ -5415,7 +5415,7 @@
     "country": "MX",
     "city_population": 777615,
     "city_internet_population": 559649,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Homs",
@@ -5451,7 +5451,7 @@
     "country": "TW",
     "city_population": 771235,
     "city_internet_population": 668089,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Shangyu",
@@ -5469,7 +5469,7 @@
     "country": "PL",
     "city_population": 768755,
     "city_internet_population": 667563,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 10
   },
   {
     "city": "Dammam",
@@ -5478,7 +5478,7 @@
     "country": "SA",
     "city_population": 768602,
     "city_internet_population": 752171,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Kahr\u012bz",
@@ -5487,7 +5487,7 @@
     "country": "IR",
     "city_population": 766706,
     "city_internet_population": 644883,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Anshun",
@@ -5523,7 +5523,7 @@
     "country": "IN",
     "city_population": 762243,
     "city_internet_population": 312519,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Wuzhou",
@@ -5559,7 +5559,7 @@
     "country": "PL",
     "city_population": 755050,
     "city_internet_population": 655662,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 15
   },
   {
     "city": "Al\u012bgarh",
@@ -5586,7 +5586,7 @@
     "country": "ZA",
     "city_population": 750845,
     "city_internet_population": 512076,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Lom\u00e9",
@@ -5595,7 +5595,7 @@
     "country": "TG",
     "city_population": 749700,
     "city_internet_population": 144692,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Ba\u011fc\u0131lar",
@@ -5604,7 +5604,7 @@
     "country": "TR",
     "city_population": 749024,
     "city_internet_population": 581763,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 27
   },
   {
     "city": "Trujillo",
@@ -5622,7 +5622,7 @@
     "country": "ID",
     "city_population": 746716,
     "city_internet_population": 401184,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Bareilly",
@@ -5649,7 +5649,7 @@
     "country": "BR",
     "city_population": 743372,
     "city_internet_population": 549444,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 39
   },
   {
     "city": "Hegang",
@@ -5667,7 +5667,7 @@
     "country": "LV",
     "city_population": 742572,
     "city_internet_population": 660131,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 32
   },
   {
     "city": "Amsterdam",
@@ -5676,7 +5676,7 @@
     "country": "NL",
     "city_population": 741636,
     "city_internet_population": 677360,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 303
   },
   {
     "city": "Ma\u2019anshan",
@@ -5694,7 +5694,7 @@
     "country": "UA",
     "city_population": 738728,
     "city_internet_population": 518031,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 5
   },
   {
     "city": "Seattle",
@@ -5703,7 +5703,7 @@
     "country": "US",
     "city_population": 737015,
     "city_internet_population": 659114,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 64
   },
   {
     "city": "Oyo",
@@ -5766,7 +5766,7 @@
     "country": "MX",
     "city_population": 726664,
     "city_internet_population": 522980,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "Muzaffar\u0101b\u0101d",
@@ -5793,7 +5793,7 @@
     "country": "IQ",
     "city_population": 723170,
     "city_internet_population": 356956,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "San Luis Potos\u00ed",
@@ -5856,7 +5856,7 @@
     "country": "UA",
     "city_population": 717803,
     "city_internet_population": 503358,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 6
   },
   {
     "city": "Ansan-si",
@@ -5865,7 +5865,7 @@
     "country": "KR",
     "city_population": 716785,
     "city_internet_population": 691733,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 16
   },
   {
     "city": "Denver",
@@ -5874,7 +5874,7 @@
     "country": "US",
     "city_population": 715522,
     "city_internet_population": 639893,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 25
   },
   {
     "city": "Hermosillo",
@@ -5892,7 +5892,7 @@
     "country": "CA",
     "city_population": 712391,
     "city_internet_population": 687457,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 5
   },
   {
     "city": "Jeonju",
@@ -5901,7 +5901,7 @@
     "country": "KR",
     "city_population": 711424,
     "city_internet_population": 686560,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Saltillo",
@@ -5919,7 +5919,7 @@
     "country": "MY",
     "city_population": 708296,
     "city_internet_population": 634314,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 22
   },
   {
     "city": "Bhiwandi",
@@ -5928,7 +5928,7 @@
     "country": "IN",
     "city_population": 707035,
     "city_internet_population": 289884,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 30
   },
   {
     "city": "Pekanbaru",
@@ -5946,7 +5946,7 @@
     "country": "ES",
     "city_population": 703206,
     "city_internet_population": 655427,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Tolyatti",
@@ -5955,7 +5955,7 @@
     "country": "RU",
     "city_population": 702879,
     "city_internet_population": 597409,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Jaboat\u00e3o",
@@ -5964,7 +5964,7 @@
     "country": "BR",
     "city_population": 702621,
     "city_internet_population": 519324,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Shizuoka",
@@ -5973,7 +5973,7 @@
     "country": "JP",
     "city_population": 701561,
     "city_internet_population": 650560,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Santo Domingo Oeste",
@@ -5982,7 +5982,7 @@
     "country": "DO",
     "city_population": 701269,
     "city_internet_population": 531561,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 6
   },
   {
     "city": "R\u0101jsh\u0101hi",
@@ -6000,7 +6000,7 @@
     "country": "DO",
     "city_population": 700000,
     "city_internet_population": 530600,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 6
   },
   {
     "city": "Battagram",
@@ -6036,7 +6036,7 @@
     "country": "HR",
     "city_population": 698966,
     "city_internet_population": 547436,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 18
   },
   {
     "city": "Agadir",
@@ -6045,7 +6045,7 @@
     "country": "MA",
     "city_population": 698310,
     "city_internet_population": 587420,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Sarajevo",
@@ -6054,7 +6054,7 @@
     "country": "BA",
     "city_population": 696731,
     "city_internet_population": 510088,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "La Plata",
@@ -6063,7 +6063,7 @@
     "country": "AR",
     "city_population": 694167,
     "city_internet_population": 515730,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Tunis",
@@ -6072,7 +6072,7 @@
     "country": "TN",
     "city_population": 693210,
     "city_internet_population": 462371,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Zhangjiakou",
@@ -6099,7 +6099,7 @@
     "country": "US",
     "city_population": 689545,
     "city_internet_population": 616662,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 104
   },
   {
     "city": "Nashville",
@@ -6108,7 +6108,7 @@
     "country": "US",
     "city_population": 689447,
     "city_internet_population": 616574,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Fuxin",
@@ -6171,7 +6171,7 @@
     "country": "GB",
     "city_population": 685368,
     "city_internet_population": 649853,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 28
   },
   {
     "city": "Binzhou",
@@ -6198,7 +6198,7 @@
     "country": "US",
     "city_population": 681054,
     "city_internet_population": 609068,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 7
   },
   {
     "city": "Kumamoto",
@@ -6252,7 +6252,7 @@
     "country": "TJ",
     "city_population": 679400,
     "city_internet_population": 149196,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 9
   },
   {
     "city": "Osasco",
@@ -6261,7 +6261,7 @@
     "country": "BR",
     "city_population": 677856,
     "city_internet_population": 501019,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 41
   },
   {
     "city": "Detroit",
@@ -6270,7 +6270,7 @@
     "country": "US",
     "city_population": 677116,
     "city_internet_population": 605546,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 13
   },
   {
     "city": "Culiac\u00e1n",
@@ -6288,7 +6288,7 @@
     "country": "US",
     "city_population": 675647,
     "city_internet_population": 604233,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 49
   },
   {
     "city": "Matola",
@@ -6297,7 +6297,7 @@
     "country": "MZ",
     "city_population": 675422,
     "city_internet_population": 101988,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Zaragoza",
@@ -6306,7 +6306,7 @@
     "country": "ES",
     "city_population": 674317,
     "city_internet_population": 628501,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Gorakhpur",
@@ -6324,7 +6324,7 @@
     "country": "MX",
     "city_population": 673616,
     "city_internet_population": 484801,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 6
   },
   {
     "city": "Acapulco de Ju\u00e1rez",
@@ -6369,7 +6369,7 @@
     "country": "CA",
     "city_population": 668549,
     "city_internet_population": 645149,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 52
   },
   {
     "city": "Cheonan",
@@ -6396,7 +6396,7 @@
     "country": "GR",
     "city_population": 664046,
     "city_internet_population": 518725,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 71
   },
   {
     "city": "Leshan",
@@ -6414,7 +6414,7 @@
     "country": "BR",
     "city_population": 662373,
     "city_internet_population": 489576,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 39
   },
   {
     "city": "Rizhao",
@@ -6486,7 +6486,7 @@
     "country": "MX",
     "city_population": 653410,
     "city_internet_population": 470259,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "Portland",
@@ -6495,7 +6495,7 @@
     "country": "US",
     "city_population": 652503,
     "city_internet_population": 583535,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 23
   },
   {
     "city": "Jo\u00e3o Pessoa",
@@ -6522,7 +6522,7 @@
     "country": "DE",
     "city_population": 650000,
     "city_internet_population": 583784,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 203
   },
   {
     "city": "Krasnodar",
@@ -6531,7 +6531,7 @@
     "country": "RU",
     "city_population": 649851,
     "city_internet_population": 552338,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "Macau",
@@ -6549,7 +6549,7 @@
     "country": "IT",
     "city_population": 648260,
     "city_internet_population": 493325,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Colombo",
@@ -6558,7 +6558,7 @@
     "country": "LK",
     "city_population": 648034,
     "city_internet_population": 226811,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Lilongwe",
@@ -6594,7 +6594,7 @@
     "country": "PH",
     "city_population": 644473,
     "city_internet_population": 302128,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 9
   },
   {
     "city": "New South Memphis",
@@ -6612,7 +6612,7 @@
     "country": "KR",
     "city_population": 640890,
     "city_internet_population": 618491,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 13
   },
   {
     "city": "Ulyanovsk",
@@ -6621,7 +6621,7 @@
     "country": "RU",
     "city_population": 640680,
     "city_internet_population": 544543,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Kotli",
@@ -6639,7 +6639,7 @@
     "country": "JP",
     "city_population": 639652,
     "city_internet_population": 593151,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Al A\u1e29mad\u012b",
@@ -6648,7 +6648,7 @@
     "country": "KW",
     "city_population": 637411,
     "city_internet_population": 628487,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Yogyakarta",
@@ -6657,7 +6657,7 @@
     "country": "ID",
     "city_population": 636660,
     "city_internet_population": 342055,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Chisinau",
@@ -6666,7 +6666,7 @@
     "country": "MD",
     "city_population": 635994,
     "city_internet_population": 484147,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 7
   },
   {
     "city": "Wroc\u0142aw",
@@ -6675,7 +6675,7 @@
     "country": "PL",
     "city_population": 634893,
     "city_internet_population": 551321,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 9
   },
   {
     "city": "Hebi",
@@ -6693,7 +6693,7 @@
     "country": "KR",
     "city_population": 634596,
     "city_internet_population": 612417,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "T\u00e9bessa",
@@ -6720,7 +6720,7 @@
     "country": "CA",
     "city_population": 632063,
     "city_internet_population": 609940,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 18
   },
   {
     "city": "Dandong",
@@ -6738,7 +6738,7 @@
     "country": "RU",
     "city_population": 631038,
     "city_internet_population": 536348,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 5
   },
   {
     "city": "Jaboat\u00e3o dos Guararapes",
@@ -6747,7 +6747,7 @@
     "country": "BR",
     "city_population": 630008,
     "city_internet_population": 465654,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Canc\u00fan",
@@ -6765,7 +6765,7 @@
     "country": "BR",
     "city_population": 627123,
     "city_internet_population": 463521,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Santiago de Quer\u00e9taro",
@@ -6810,7 +6810,7 @@
     "country": "DJ",
     "city_population": 623891,
     "city_internet_population": 368095,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Las Vegas",
@@ -6819,7 +6819,7 @@
     "country": "US",
     "city_population": 623747,
     "city_internet_population": 557818,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 5
   },
   {
     "city": "Baltimore",
@@ -6828,7 +6828,7 @@
     "country": "US",
     "city_population": 621849,
     "city_internet_population": 556121,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 16
   },
   {
     "city": "Kermanshah",
@@ -6837,7 +6837,7 @@
     "country": "IR",
     "city_population": 621100,
     "city_internet_population": 522412,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Coyoac\u00e1n",
@@ -6846,7 +6846,7 @@
     "country": "MX",
     "city_population": 620416,
     "city_internet_population": 446513,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "Ribeir\u00e3o Preto",
@@ -6900,7 +6900,7 @@
     "country": "PH",
     "city_population": 617301,
     "city_internet_population": 289390,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "Bristol",
@@ -6909,7 +6909,7 @@
     "country": "GB",
     "city_population": 617280,
     "city_internet_population": 585293,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 19
   },
   {
     "city": "Chizhou",
@@ -6936,7 +6936,7 @@
     "country": "BR",
     "city_population": 613764,
     "city_internet_population": 453647,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Santa Mar\u00eda Chimalhuac\u00e1n",
@@ -6945,7 +6945,7 @@
     "country": "MX",
     "city_population": 612383,
     "city_internet_population": 440732,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "Ya'an",
@@ -6963,7 +6963,7 @@
     "country": "IN",
     "city_population": 609617,
     "city_internet_population": 249942,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 30
   },
   {
     "city": "Torre\u00f3n",
@@ -6981,7 +6981,7 @@
     "country": "RU",
     "city_population": 606730,
     "city_internet_population": 515688,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 5
   },
   {
     "city": "Bhavnagar",
@@ -6999,7 +6999,7 @@
     "country": "ZA",
     "city_population": 605344,
     "city_internet_population": 412844,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 28
   },
   {
     "city": "Cochin",
@@ -7008,7 +7008,7 @@
     "country": "IN",
     "city_population": 604696,
     "city_internet_population": 247925,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Jinzhou",
@@ -7035,7 +7035,7 @@
     "country": "AE",
     "city_population": 603492,
     "city_internet_population": 603492,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Sanming",
@@ -7053,7 +7053,7 @@
     "country": "PK",
     "city_population": 601600,
     "city_internet_population": 102698,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Kirkuk",
@@ -7080,7 +7080,7 @@
     "country": "US",
     "city_population": 600155,
     "city_internet_population": 536720,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 5
   },
   {
     "city": "Vancouver",
@@ -7089,7 +7089,7 @@
     "country": "CA",
     "city_population": 600000,
     "city_internet_population": 579000,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 41
   },
   {
     "city": "Shuangyashan",
@@ -7116,7 +7116,7 @@
     "country": "RU",
     "city_population": 599579,
     "city_internet_population": 509610,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Rotterdam",
@@ -7125,7 +7125,7 @@
     "country": "NL",
     "city_population": 598199,
     "city_internet_population": 546355,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 149
   },
   {
     "city": "Morelia",
@@ -7152,7 +7152,7 @@
     "country": "KR",
     "city_population": 595644,
     "city_internet_population": 574826,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 16
   },
   {
     "city": "Rasht",
@@ -7161,7 +7161,7 @@
     "country": "IR",
     "city_population": 594590,
     "city_internet_population": 500114,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 26
   },
   {
     "city": "Brampton",
@@ -7170,7 +7170,7 @@
     "country": "CA",
     "city_population": 593638,
     "city_internet_population": 572860,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 50
   },
   {
     "city": "Abeokuta",
@@ -7188,7 +7188,7 @@
     "country": "DE",
     "city_population": 593085,
     "city_internet_population": 532667,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 127
   },
   {
     "city": "Kayseri",
@@ -7197,7 +7197,7 @@
     "country": "TR",
     "city_population": 592840,
     "city_internet_population": 460456,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Glasgow",
@@ -7206,7 +7206,7 @@
     "country": "GB",
     "city_population": 591620,
     "city_internet_population": 560963,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 10
   },
   {
     "city": "Gold Coast",
@@ -7215,7 +7215,7 @@
     "country": "AU",
     "city_population": 591473,
     "city_internet_population": 511890,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Yingkou",
@@ -7233,7 +7233,7 @@
     "country": "PH",
     "city_population": 590000,
     "city_internet_population": 276592,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 9
   },
   {
     "city": "Zhangzhou",
@@ -7251,7 +7251,7 @@
     "country": "DE",
     "city_population": 589793,
     "city_internet_population": 529710,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 114
   },
   {
     "city": "Reynosa",
@@ -7269,7 +7269,7 @@
     "country": "VN",
     "city_population": 588616,
     "city_internet_population": 413738,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Dortmund",
@@ -7278,7 +7278,7 @@
     "country": "DE",
     "city_population": 588462,
     "city_internet_population": 528515,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 83
   },
   {
     "city": "Vladivostok",
@@ -7287,7 +7287,7 @@
     "country": "RU",
     "city_population": 587022,
     "city_internet_population": 498937,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 4
   },
   {
     "city": "Irkutsk",
@@ -7296,7 +7296,7 @@
     "country": "RU",
     "city_population": 586695,
     "city_internet_population": 498659,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 6
   },
   {
     "city": "Blantyre",
@@ -7305,7 +7305,7 @@
     "country": "MW",
     "city_population": 584877,
     "city_internet_population": 90655,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "New Kingston",
@@ -7323,7 +7323,7 @@
     "country": "TR",
     "city_population": 582666,
     "city_internet_population": 452554,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 27
   },
   {
     "city": "Genoa",
@@ -7332,7 +7332,7 @@
     "country": "IT",
     "city_population": 580223,
     "city_internet_population": 441549,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 5
   },
   {
     "city": "Cuttack",
@@ -7341,7 +7341,7 @@
     "country": "IN",
     "city_population": 580000,
     "city_internet_population": 237800,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Oslo",
@@ -7350,7 +7350,7 @@
     "country": "NO",
     "city_population": 580000,
     "city_internet_population": 562600,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 43
   },
   {
     "city": "Khabarovsk",
@@ -7359,7 +7359,7 @@
     "country": "RU",
     "city_population": 579000,
     "city_internet_population": 492119,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 6
   },
   {
     "city": "Khabarovsk Vtoroy",
@@ -7368,7 +7368,7 @@
     "country": "RU",
     "city_population": 578303,
     "city_internet_population": 491526,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 6
   },
   {
     "city": "Libreville",
@@ -7377,7 +7377,7 @@
     "country": "GA",
     "city_population": 578156,
     "city_internet_population": 352675,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Kerman",
@@ -7413,7 +7413,7 @@
     "country": "TR",
     "city_population": 576799,
     "city_internet_population": 447997,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 27
   },
   {
     "city": "B\u012bkaner",
@@ -7431,7 +7431,7 @@
     "country": "MX",
     "city_population": 575942,
     "city_internet_population": 414505,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Tlalpan",
@@ -7440,7 +7440,7 @@
     "country": "MX",
     "city_population": 574577,
     "city_internet_population": 413523,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "Umraniye",
@@ -7449,7 +7449,7 @@
     "country": "TR",
     "city_population": 573265,
     "city_internet_population": 445252,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 27
   },
   {
     "city": "D\u00fcsseldorf",
@@ -7458,7 +7458,7 @@
     "country": "DE",
     "city_population": 573057,
     "city_internet_population": 514679,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 142
   },
   {
     "city": "Banjarmasin",
@@ -7467,7 +7467,7 @@
     "country": "ID",
     "city_population": 572837,
     "city_internet_population": 307765,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "G\u00f6teborg",
@@ -7476,7 +7476,7 @@
     "country": "SE",
     "city_population": 572799,
     "city_internet_population": 541520,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 21
   },
   {
     "city": "Shihezi",
@@ -7503,7 +7503,7 @@
     "country": "US",
     "city_population": 571281,
     "city_internet_population": 510898,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 49
   },
   {
     "city": "Kuching",
@@ -7521,7 +7521,7 @@
     "country": "PL",
     "city_population": 570352,
     "city_internet_population": 495276,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 6
   },
   {
     "city": "M\u00e1laga",
@@ -7530,7 +7530,7 @@
     "country": "ES",
     "city_population": 568305,
     "city_internet_population": 529692,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 10
   },
   {
     "city": "Bouak\u00e9",
@@ -7557,7 +7557,7 @@
     "country": "IN",
     "city_population": 564319,
     "city_internet_population": 231370,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Asmara",
@@ -7584,7 +7584,7 @@
     "country": "BR",
     "city_population": 563536,
     "city_internet_population": 416523,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Hachi\u014dji",
@@ -7593,7 +7593,7 @@
     "country": "JP",
     "city_population": 561344,
     "city_internet_population": 520536,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 137
   },
   {
     "city": "Onitsha",
@@ -7620,7 +7620,7 @@
     "country": "JP",
     "city_population": 560743,
     "city_internet_population": 519979,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 142
   },
   {
     "city": "Albuquerque",
@@ -7629,7 +7629,7 @@
     "country": "US",
     "city_population": 559121,
     "city_internet_population": 500023,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Hamh\u016dng",
@@ -7656,7 +7656,7 @@
     "country": "FI",
     "city_population": 558457,
     "city_internet_population": 514731,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 65
   },
   {
     "city": "Warangal",
@@ -7692,7 +7692,7 @@
     "country": "JP",
     "city_population": 555352,
     "city_internet_population": 514980,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Surakarta",
@@ -7710,7 +7710,7 @@
     "country": "AR",
     "city_population": 553935,
     "city_internet_population": 411545,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 2
   },
   {
     "city": "Huaihua",
@@ -7755,7 +7755,7 @@
     "country": "YE",
     "city_population": 550602,
     "city_internet_population": 147111,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Nanded",
@@ -7773,7 +7773,7 @@
     "country": "IN",
     "city_population": 550440,
     "city_internet_population": 225680,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Orenburg",
@@ -7782,7 +7782,7 @@
     "country": "RU",
     "city_population": 550204,
     "city_internet_population": 467644,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Changwon",
@@ -7800,7 +7800,7 @@
     "country": "XK",
     "city_population": 550000,
     "city_internet_population": 491936,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 5
   },
   {
     "city": "Jiamusi",
@@ -7818,7 +7818,7 @@
     "country": "PH",
     "city_population": 549543,
     "city_internet_population": 257625,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "Korla",
@@ -7836,7 +7836,7 @@
     "country": "DE",
     "city_population": 546501,
     "city_internet_population": 490828,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 41
   },
   {
     "city": "Wanning",
@@ -7872,7 +7872,7 @@
     "country": "TW",
     "city_population": 543342,
     "city_internet_population": 470674,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 14
   },
   {
     "city": "Sargodha",
@@ -7899,7 +7899,7 @@
     "country": "LT",
     "city_population": 542366,
     "city_internet_population": 450465,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 26
   },
   {
     "city": "Pingdu",
@@ -7917,7 +7917,7 @@
     "country": "RU",
     "city_population": 539616,
     "city_internet_population": 458644,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Kisangani",
@@ -8025,7 +8025,7 @@
     "country": "MX",
     "city_population": 531831,
     "city_internet_population": 382758,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 8
   },
   {
     "city": "Shangluo",
@@ -8043,7 +8043,7 @@
     "country": "US",
     "city_population": 531641,
     "city_internet_population": 475448,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Ta\u2019if",
@@ -8079,7 +8079,7 @@
     "country": "VE",
     "city_population": 529376,
     "city_internet_population": 301744,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Touba",
@@ -8097,7 +8097,7 @@
     "country": "CA",
     "city_population": 528595,
     "city_internet_population": 510094,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 5
   },
   {
     "city": "Hamad\u0101n",
@@ -8178,7 +8178,7 @@
     "country": "IN",
     "city_population": 521891,
     "city_internet_population": 213975,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 3
   },
   {
     "city": "Petaling Jaya",
@@ -8187,7 +8187,7 @@
     "country": "MY",
     "city_population": 520698,
     "city_internet_population": 466311,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 22
   },
   {
     "city": "Bhayandar",
@@ -8196,7 +8196,7 @@
     "country": "IN",
     "city_population": 520301,
     "city_internet_population": 213323,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 30
   },
   {
     "city": "Esenler",
@@ -8205,7 +8205,7 @@
     "country": "TR",
     "city_population": 520235,
     "city_internet_population": 404064,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 27
   },
   {
     "city": "Ryazan\u2019",
@@ -8214,7 +8214,7 @@
     "country": "RU",
     "city_population": 520173,
     "city_internet_population": 442119,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 7
   },
   {
     "city": "Fresno",
@@ -8232,7 +8232,7 @@
     "country": "CA",
     "city_population": 519949,
     "city_internet_population": 501750,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 11
   },
   {
     "city": "Tyumen",
@@ -8241,7 +8241,7 @@
     "country": "RU",
     "city_population": 519119,
     "city_internet_population": 441223,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 7
   },
   {
     "city": "Durgapur",
@@ -8250,7 +8250,7 @@
     "country": "IN",
     "city_population": 518872,
     "city_internet_population": 212737,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Victoria de Durango",
@@ -8277,7 +8277,7 @@
     "country": "PT",
     "city_population": 517802,
     "city_internet_population": 405240,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 219
   },
   {
     "city": "Ulhasnagar",
@@ -8286,7 +8286,7 @@
     "country": "IN",
     "city_population": 516584,
     "city_internet_population": 211799,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 30
   },
   {
     "city": "Guangyuan",
@@ -8313,7 +8313,7 @@
     "country": "RU",
     "city_population": 515655,
     "city_internet_population": 438279,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   },
   {
     "city": "Siliguri",
@@ -8331,7 +8331,7 @@
     "country": "DE",
     "city_population": 515543,
     "city_internet_population": 463024,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 79
   },
   {
     "city": "Hannover",
@@ -8340,7 +8340,7 @@
     "country": "DE",
     "city_population": 515140,
     "city_internet_population": 462662,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 30
   },
   {
     "city": "Eski\u015fehir",
@@ -8394,7 +8394,7 @@
     "country": "ZA",
     "city_population": 511655,
     "city_internet_population": 348948,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 31
   },
   {
     "city": "Bilimora",
@@ -8421,7 +8421,7 @@
     "country": "CL",
     "city_population": 510417,
     "city_internet_population": 420213,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 19
   },
   {
     "city": "Makati City",
@@ -8430,7 +8430,7 @@
     "country": "PH",
     "city_population": 510383,
     "city_internet_population": 239267,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 9
   },
   {
     "city": "Tonghua",
@@ -8457,7 +8457,7 @@
     "country": "GB",
     "city_population": 508916,
     "city_internet_population": 482544,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 34
   },
   {
     "city": "Banan",
@@ -8502,7 +8502,7 @@
     "country": "IN",
     "city_population": 505241,
     "city_internet_population": 207148,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 18
   },
   {
     "city": "Zhoukou",
@@ -8520,7 +8520,7 @@
     "country": "DE",
     "city_population": 504971,
     "city_internet_population": 453529,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 17
   },
   {
     "city": "Pingliang",
@@ -8538,7 +8538,7 @@
     "country": "RU",
     "city_population": 504641,
     "city_internet_population": 428917,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 83
   },
   {
     "city": "Duisburg",
@@ -8547,7 +8547,7 @@
     "country": "DE",
     "city_population": 504358,
     "city_internet_population": 452978,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 123
   },
   {
     "city": "\u0100sansol",
@@ -8574,6 +8574,6 @@
     "country": "RU",
     "city_population": 502533,
     "city_internet_population": 427126,
-    "atlas_probe_50km_count": 0
+    "atlas_probe_50km_count": 1
   }
 ]
