@@ -110,7 +110,7 @@ for c_idx, city in enumerate( cities ):
         'country': city['cc'],
         'city_population': city['pop'],
         'city_internet_population': int_pop,
-        f'atlas_probe_{RADIUS}km_count': close_cnt
+        'atlas_probe_count': close_cnt
     })
 
 with open(f"cities.atlas.r{RADIUS}.m{MIN_POP}.json", 'wt') as outf:
