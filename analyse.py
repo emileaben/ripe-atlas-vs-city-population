@@ -1,9 +1,13 @@
 #!/usr/bin/env python
 import sys
+import arrow
 import csv
 import country_converter as coco
 import json
 from haversine import haversine_vector, Unit
+
+MIN_POP=500000 # minimum city population
+RADIUS=25 # city radius
 
 pct_users = {}
 with open("API_IT.NET.USER.ZS_DS2_en_csv_v2_3930944.csv") as inf:
@@ -67,7 +71,7 @@ with open("cities15000.txt",'rt') as inf:
         lon = float( fields[5] )
         cc = fields[8]
         pop = int( fields[14] )
-        if pop > 500000:
+        if pop > MIN_POP:
             cities.append({
                 'name': name,
                 'lat': lat,
@@ -86,22 +90,28 @@ city_coord = list( map(lambda x: (x['lat'],x['lon']) ,cities ) )
 
 distances = haversine_vector(prb_coord, city_coord, Unit.KILOMETERS, comb=True)
 
-j = []
+j = {
+  'radius': RADIUS,
+  'min_pop': MIN_POP,
+  'date':  arrow.now().format('YYYY-MM-DD'),
+  'cities': []
+}
+
 for c_idx, city in enumerate( cities ):
     city_distances = distances[ c_idx ]
-    close = filter( lambda x: x < 50 , city_distances )
+    close = filter( lambda x: x < RADIUS , city_distances )
     close_cnt = len( list( close ) ) 
     int_pop = int( city['pop'] * 0.01 * pct_users[ city['cc'] ] )
     print( f"{city['name']}, {city['cc']}, {city['pop']}, {int_pop}, {close_cnt}" )
-    j.append({
+    j['cities'].append({
         'city': city['name'],
         'lat': city['lat'],
         'lon': city['lon'],
         'country': city['cc'],
         'city_population': city['pop'],
         'city_internet_population': int_pop,
-        'atlas_probe_50km_count': close_cnt
+        f'atlas_probe_{RADIUS}km_count': close_cnt
     })
 
-with open("cities.atlas.json", 'wt') as outf:
+with open(f"cities.atlas.r{RADIUS}.m{MIN_POP}.json", 'wt') as outf:
     json.dump( j, outf, indent=2 )
